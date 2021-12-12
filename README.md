@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/aindrajaya/counter-dapp">
+  <a href="https://github.com/aindrajaya/faucet">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -15,14 +15,14 @@
   <p align="center">
     Ethereum Faucet to share unreal ether coin to others
     <br />
-    <a href="https://github.com/aindrajaya/counter-dapp"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aindrajaya/faucet"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/aindrajaya/counter-dapp">View Demo</a>
+    <a href="https://github.com/aindrajaya/faucet">View Demo</a>
     ·
-    <a href="https://github.com/aindrajaya/counter-dapp/issues">Report Bug</a>
+    <a href="https://github.com/aindrajaya/faucet/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aindrajaya/counter-dapp/issues">Request Feature</a>
+    <a href="https://github.com/aindrajaya/faucet/issues">Request Feature</a>
   </p>
 </p>
 
@@ -50,7 +50,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About the Counter dApps (Decentralized Applications)
+## About the Faucet (Ethereum Faucet)
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This project is my own exploration and the result of my [Project-based learning](https://www.pblworks.org/what-is-pbl) to explore more deep on how Ethereum Faucet works and also knowing well about the logic that happening on that application. This project I also inspired from [Jackson Ng](https://github.com/jacksonng77) and also from [Filip Jerga](https://github.com/Jerga99) Udemy course. Thank you!!
@@ -109,7 +109,7 @@ See the [open issues](https://github.com/aindrajaya/faucet/issues) for a list of
 ## Contact
 Arista - [@Arista_Indra](https://twitter.com/Arista_Indra) - arista.indrajay@gmail.com
 
-Project Link: [Counter dApp](https://github.com/aindrajaya/faucet)
+Project Link: [Faucet](https://github.com/aindrajaya/faucet)
 
 
 
@@ -127,10 +127,10 @@ Project Link: [Counter dApp](https://github.com/aindrajaya/faucet)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/aindrajaya/counter-dapp.svg?style=for-the-badge
-[stars-url]: https://github.com/aindrajaya/counter-dapp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/aindrajaya/counter-dapp.svg?style=for-the-badge
-[issues-url]: https://github.com/aindrajaya/counter-dapp/issues
+[stars-shield]: https://img.shields.io/github/stars/aindrajaya/faucet.svg?style=for-the-badge
+[stars-url]: https://github.com/aindrajaya/faucet/stargazers
+[issues-shield]: https://img.shields.io/github/issues/aindrajaya/faucet.svg?style=for-the-badge
+[issues-url]: https://github.com/aindrajaya/faucet/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/aindrajaya
 [product-screenshot]: images/screenshot.png
